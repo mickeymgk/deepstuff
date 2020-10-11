@@ -1,1 +1,1 @@
-web: java -jar build/distributions/lib/promo-camp.jar
+worker: java -jar build/distributions/lib/promo-camp.jar
